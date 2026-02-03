@@ -6,6 +6,8 @@ This project explores how UK rail passenger journeys changed from 2015–2024, f
 
 ![Composite visualisation](outputs/IJC445_composite_2015_2024_colourful.png)
 
+📄 **R script:** [coursework_plots.R](coursework_plots.R)
+
 **Key findings**
 - Heatmap: Clear seasonality and a structural break in **Q2 2020**.
 - Sector shares: London & South East remains dominant; shares shift temporarily during COVID disruption.
